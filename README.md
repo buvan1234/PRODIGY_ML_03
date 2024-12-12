@@ -144,15 +144,3 @@ l = [img_resize.flatten()]
 print(f"The predicted image is: {['cat', 'dog'][model.predict(l)[0]]}")
 ```
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- **Cats and Dogs 40 Dataset**: [Kaggle Cats and Dogs 40 Dataset](https://www.kaggle.com/datasets/stefancomanita/cats-and-dogs-40)
-- **Support Vector Machine (SVM)**: [Scikit-learn SVM documentation](https://scikit-learn.org/stable/modules/svm.html)
-
----
-
-This README provides clear instructions for setting up the environment, downloading the dataset, training the model, and evaluating its performance. You can further expand it with more project-specific details if needed.
