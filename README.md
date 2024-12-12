@@ -32,7 +32,7 @@ This project uses a Support Vector Machine (SVM) to classify images from the "Ca
 
 1. Clone this repository:
     
-    git clone 
+    git clone https://github.com/buvan1234/PRODIGY_ML_03.GIT
     
 
 2. Create and activate a virtual environment (optional but recommended):
